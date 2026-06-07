@@ -4,6 +4,10 @@ private _weapons = [
 
 ];
 
+private _weaponMods = [
+
+];
+
 private _magazines = [
 
 ];
