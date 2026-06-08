@@ -653,6 +653,10 @@ private _magazines = [
 
 ];
 
+private _launchers = [
+
+];
+
 private _items = [
     "ACE_Altimeter",
     "ACE_APERSMine_ToePopper_Mag",
@@ -2944,7 +2948,7 @@ private _uniforms = [
     "USP_SOFTSHELL_G3C_RGR_MCT"
 ];
 
-private _arsenalItems = _weapons + _magazines + _items + _backpacks + _vests + _headgear + _facewear + _uniforms;
+private _arsenalItems = _weapons + _weaponMods + _launchers + _magazines + _items + _backpacks + _vests + _headgear + _facewear + _uniforms;
 _arsenalItems = _arsenalItems arrayIntersect _arsenalItems;
 
 [cursorObject, _arsenalItems, true] remoteExec ["ace_arsenal_fnc_initBox", 2];
