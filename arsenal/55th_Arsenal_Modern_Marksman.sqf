@@ -6116,6 +6116,7 @@ private _launchers = [
 ];
 
 private _items = [
+    "kat_scalpel",
     "tsp_sling_lanyard",
     "ACE_Altimeter",
     "ACE_APERSMine_ToePopper_Mag",
