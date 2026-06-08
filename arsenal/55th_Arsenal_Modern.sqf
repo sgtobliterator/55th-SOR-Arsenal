@@ -349,12 +349,6 @@ private _weapons = [
     "MCC_RattlerLT_6_762x39_BLK_MPLFS",
     "MCC_RattlerLT_7_556_BLK_MPLFS",
     "MCC_RattlerLT_7_762x39_BLK_MPLFS",
-    "MCC_RD501",
-    "MCC_RD504",
-    "MCC_RD601",
-    "MCC_RD604",
-    "MCC_RD701",
-    "MCC_RD704",
     "MCC_REC7_DI_556_BLK_Bravo",
     "MCC_REC7_DI_556_BLK_CTR",
     "MCC_REC7_DI_556_BLK_SLK",
@@ -3103,7 +3097,9 @@ private _weapons = [
     "SPS_KAC_LWAMG_Black_F",
     "SPS_KAC_LWAMG_Tan_F",
     "sps_m27_hk_vfg_black_f",
-    "sps_m27_t_vfg_black_f"
+    "sps_m27_t_vfg_black_f",
+    "KAR_XM250",
+    "KAR_XM250_BLK"
 ];
 
 private _secondaries = [
@@ -3302,6 +3298,14 @@ private _secondaries = [
 ];
 
 private _weaponMods = [
+    "rhsusf_acc_su230",
+    "rhsusf_acc_su230_c",
+    "rhsusf_acc_su230_mrds",
+    "rhsusf_acc_su230_mrds_c",
+    "rhsusf_acc_su230a",
+    "rhsusf_acc_su230a_c",
+    "rhsusf_acc_su230a_mrds",
+    "rhsusf_acc_su230a_mrds_c",
     "ACE_muzzle_mzls_338",
     "ACE_muzzle_mzls_93mmg",
     "ACE_muzzle_mzls_B",
