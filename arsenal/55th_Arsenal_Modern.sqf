@@ -654,7 +654,25 @@ private _magazines = [
 ];
 
 private _launchers = [
-
+    "kat_CarryStretcherBag",
+    "launch_MRAWS_black_F",
+    "launch_MRAWS_black_rail_F",
+    "launch_MRAWS_coyote_F",
+    "launch_MRAWS_coyote_rail_F",
+    "launch_MRAWS_green_F",
+    "launch_MRAWS_green_rail_F",
+    "launch_MRAWS_olive_F",
+    "launch_MRAWS_olive_rail_F",
+    "launch_MRAWS_sand_F",
+    "launch_MRAWS_sand_rail_F",
+    "louetta_walker_MRAWS",
+    "rhs_weap_fim92",
+    "rhs_weap_M136",
+    "rhs_weap_M136_hedp",
+    "rhs_weap_M136_hp",
+    "rhs_weap_maaws",
+    "rhs_weap_smaw",
+    "rhs_weap_smaw_green"
 ];
 
 private _items = [
