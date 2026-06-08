@@ -3099,7 +3099,14 @@ private _weapons = [
     "sps_m27_hk_vfg_black_f",
     "sps_m27_t_vfg_black_f",
     "KAR_XM250",
-    "KAR_XM250_BLK"
+    "KAR_XM250_BLK",
+    "GL_M32_F",
+    "JCA_arifle_HK433_black_F",
+    "JCA_arifle_HK433_olive_F",
+    "JCA_arifle_HK433_sand_F",
+    "JCA_arifle_HK433_short_black_F",
+    "JCA_arifle_HK433_short_olive_F",
+    "JCA_arifle_HK433_short_sand_F"
 ];
 
 private _secondaries = [
