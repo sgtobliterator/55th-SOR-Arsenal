@@ -16760,7 +16760,27 @@ private _uniforms = [
     "USP_SOFTSHELL_G3C_RGR_MCT"
 ];
 
-private _arsenalItems = _weapons + _secondaries + _weaponMods + _launchers + _sights + _magazines + _items + _backpacks + _vests + _headgear + _facewear + _uniforms;
+private _marksmanRifles = [
+
+];
+
+private _marksmanScopes = [
+
+];
+
+private _marksmanUniforms = [
+
+];
+
+private _marskmanHeadgear = [
+
+];
+
+private _marksmanItems = [
+
+];
+
+private _arsenalItems = _weapons + _secondaries + _weaponMods + _launchers + _sights + _magazines + _items + _backpacks + _vests + _headgear + _facewear + _uniforms + _marksmanRifles + _marksmanScopes + _marskmanUniforms + _marksmanHeadgear + _marksmanItems; 
 _arsenalItems = _arsenalItems arrayIntersect _arsenalItems;
 
 [_box, _arsenalItems, true] remoteExec ["ace_arsenal_fnc_initBox", 2];
