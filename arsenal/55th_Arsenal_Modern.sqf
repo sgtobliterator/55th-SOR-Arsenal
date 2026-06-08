@@ -694,7 +694,6 @@ private _items = [
     "rhs_mag_mk84",
     "rhsusf_bino_lerca_1200_black",
     "rhsusf_bino_lerca_1200_tan",
-    "rhsusf_bino_lrf_Vector21",
     "rhsusf_bino_m24",
     "rhsusf_m112_mag",
     "rhsusf_m112x4_mag",
