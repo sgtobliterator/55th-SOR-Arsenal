@@ -6673,8 +6673,6 @@ private _sights = [
     "MCC_GBRS_T2_Mag_Down_FDE",
     "MCC_GBRS_T2_Mag_Up_BLK",
     "MCC_GBRS_T2_Mag_Up_FDE",
-    "MCC_Mark5_10_BLK",
-    "MCC_Mark5_10_FDE",
     "MCC_MicroT2",
     "MCC_MicroT2_Down",
     "MCC_MicroT2_Spuhr_BLK",
