@@ -6904,6 +6904,10 @@ private _launchers = [
 ];
 
 private _items = [
+    "ItemMicroDAGRMisc",
+    "mts_cutter_folding_saw",
+    "mts_whistle_FOX40",
+    "mts_items_marker_yellow",
     "kat_scalpel",
     "tsp_sling_lanyard",
     "ACE_Altimeter",
