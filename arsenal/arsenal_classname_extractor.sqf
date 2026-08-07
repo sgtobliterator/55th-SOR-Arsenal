@@ -14,7 +14,7 @@
 */
 
 // ============================ CONFIG ============================
-private _box      = cursorObject;   // or:  myArsenalBox   /   (missionNamespace getVariable "myBox")
+private _box      = cursorObject;   // cursorObject / _this / **box or entity classname**
 private _sortList = true;           // alphabetical sort
 // ================================================================
 
