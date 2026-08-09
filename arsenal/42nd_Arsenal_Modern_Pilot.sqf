@@ -308,7 +308,7 @@ private _pilotBackpacks = [
 	"asip_b_03_lv"
 ];
 
-private _arsenalItems = _infantryItems;
+private _arsenalItems = _infantryItems + _pilotHelmets + _pilotUniforms + _pilotVests + _pilotBackpacks;
 _arsenalItems = _arsenalItems arrayIntersect _arsenalItems;
 
 //If you need to do testing, change _box to cursorObject
